@@ -1,4 +1,4 @@
-baseURL: "0.0.0.0"
+baseURL: "https://geobasinas.com"
 title: Geobasinas
 paginate: 5
 theme: PaperMod
