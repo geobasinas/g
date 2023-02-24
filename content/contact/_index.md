@@ -25,7 +25,7 @@ UseHugoToc: true
   <br>
   <textarea id="message" name="message" required placeholder="Message" columns="100" rows="7"></textarea>
   <br>
-  <div class="cf-turnstile" data-sitekey="0x4AAAAAAACocaIOeqzA1x8m"></div>
+  <div class="cf-turnstile" data-sitekey="0x4AAAAAAACocaIOeqzA1x8m" theme="auto"></div>
   <br>
   <button type="submit" id="send">Submit</button>
 </form>
