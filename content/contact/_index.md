@@ -37,4 +37,7 @@ input, textarea, #send {
   width: 100%;
   height: 200%;
 }
+input, textarea {
+  color: var(--primary)
+}
 </style>
